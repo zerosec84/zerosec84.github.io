@@ -15,10 +15,10 @@ comments: 1
 | :--------: | :-------- |
 | episode 01 | 35:44 
 | episode 02 | 
-| episode 03 | 
+| episode 03 | 04:30
 | episode 04 | 
 | episode 05 | 
 | episode 06 | 
-| episode 07 | 
+| episode 07 | 42:40 , 51:00
 
 
