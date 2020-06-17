@@ -9,7 +9,7 @@ comments: 1
 
 
 #### Season1
-
+<div class="tableSize">
 | episode | Time | 
 | :-------------: | :----------------------- |
 | episode 01 | 35:44 |
@@ -19,6 +19,4 @@ comments: 1
 | episode 05 | |
 | episode 06 | |
 | episode 07 | |
-
-|제목|내용|설명|
-|------|---|---|
+</div>
