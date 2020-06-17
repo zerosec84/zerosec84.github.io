@@ -9,7 +9,6 @@ comments: 1
 
 
 #### Season1
-<div class="tableSize">
 
 | episode | Time | 
 | :-------------: | :----------------------- |
@@ -21,4 +20,4 @@ comments: 1
 | episode 06 | |
 | episode 07 | |
 
-</div>
+
