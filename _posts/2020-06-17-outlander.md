@@ -6,17 +6,11 @@ categories: Default
 tags: netfilx
 ---
 
-<details>
-<summary markdown='1'>
-
-##### - Season1
-
-</summary>
-
+<details> <summary class="titleFont"> ■ Season1 </summary>
 <div markdown='1'>
 
 |episode|Time| 
-|:--------:|--------|
+| :--------: | -------- |
 | episode 01 | 35:44 
 | episode 02 | 
 | episode 03 | 04:30
@@ -37,16 +31,11 @@ tags: netfilx
 </div>
 </details>
 
-<details>
-<summary>
-
-##### - Season2
-
-</summary>
+<details> <summary class="titleFont"> ■ Season2 </summary>
 <div markdown='1'>
 
 |episode|Time| 
-|:--------:|--------|
+| :--------: | -------- |
 | episode 01 | 
 | episode 02 | 
 | episode 03 | 
