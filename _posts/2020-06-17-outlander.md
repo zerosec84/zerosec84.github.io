@@ -4,7 +4,6 @@ title:  "아웃랜더"
 date:   2020-06-17 19:30:13 +0800
 categories: Default
 tags: netfilx
-comments: 1
 ---
 
 
