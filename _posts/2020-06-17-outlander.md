@@ -7,10 +7,14 @@ tags: netfilx
 ---
 
 <details>
-<summary>
+<summary markdown='1'>
+
 ##### - Season1
+
 </summary>
-<div markdown="1">
+
+<div markdown='1'>
+
 |episode|Time| 
 |:--------:|--------|
 | episode 01 | 35:44 
@@ -29,14 +33,18 @@ tags: netfilx
 | episode 14 | 
 | episode 15 | 
 | episode 16 | 
+
 </div>
 </details>
 
 <details>
 <summary>
+
 ##### - Season2
+
 </summary>
-<div markdown="1">
+<div markdown='1'>
+
 |episode|Time| 
 |:--------:|--------|
 | episode 01 | 
@@ -52,5 +60,6 @@ tags: netfilx
 | episode 11 | 
 | episode 12 | 
 | episode 13 | 
+
 </div>
 </details>
