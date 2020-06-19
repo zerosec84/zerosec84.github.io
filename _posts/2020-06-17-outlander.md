@@ -10,9 +10,9 @@ comments: 1
 
 #### Season1
 
-| :--------: | :--------: |
-| episode | Time | 
-| :--------: | :-------- |
+
+|episode|Time| 
+|:--------:|:--------|
 | episode 01 | 35:44 
 | episode 02 | 
 | episode 03 | 04:30
